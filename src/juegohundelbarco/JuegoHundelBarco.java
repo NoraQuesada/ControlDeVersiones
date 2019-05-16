@@ -9,7 +9,8 @@ import java.util.TreeMap;
 /*
     Autor: Nora Quesada
     Fecha: 20/03/2019
-    Actividad: Main Juego Hunde El Barco
+    Actividad: Main Juego Hunde El Barco 
+    ESto son cambios para ver el efecto que tiene
  */
 public class JuegoHundelBarco implements java.io.Serializable {
 
